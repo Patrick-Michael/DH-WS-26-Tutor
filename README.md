@@ -22,7 +22,7 @@ The repository is organized to reflect a simple and transparent structure for an
 ├── app.R                     # Main application entry point
 ├── scripts/                  # R scripts for data processing and Shiny modules
 │   ├── data.R                # Data loading and preparation for visualization
-│   ├── dataset_cleaning.R    # Data cleaning pipeline (tutorial example)
+│   ├── dataset_cleaning.R    # Data cleaning pipeline (tutorial example) - entry point to the pipeline
 │   ├── dataset_analysis.R    # Data transformation and aggregation
 │   ├── mod_controls.R        # Shiny UI controls
 │   ├── mod_map.R             # Interactive map module
